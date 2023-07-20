@@ -11,6 +11,6 @@ The U-Net model achieves excellent performance in predicting masks for various c
 
 The predictions can be visualized and compared to the ground truth masks to assess the model's accuracy and effectiveness. Users can use the model for inference on new aerial images, obtaining accurate semantic segmentation masks for further analysis and applications.
 
-##Citation
+## Citation
 If you use this dataset in your research, please cite the following URL:
 http://dronedataset.icg.tugraz.at
